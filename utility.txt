@@ -1,1 +1,1 @@
-this the 1st utility function of the software.
+This is the 2nd utility function of the software.
